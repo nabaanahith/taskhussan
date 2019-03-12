@@ -1,6 +1,6 @@
 package com.company.api;
 
-import com.company.model.entity.WeatherResponse;
+import com.company.entites.WeatherResponse;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
